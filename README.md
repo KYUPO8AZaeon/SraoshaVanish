@@ -22,8 +22,12 @@ See [the game description](SraoshaVanish/arcade_description.txt).
 ## Credits and usage
 
 See [Credits & Usage Notes](SraoshaVanish/CREDITS_AND_USAGE.txt).
-These notes refer to the license terms of the published version; those terms have not yet been finalized in this preparation repository.
-No open-source license has been selected.
+The permissions and conditions are in [LICENSE.txt](LICENSE.txt).
+This release uses a custom, non-open-source license: playing the game, screenshots,
+gameplay videos, livestreams, reviews and original fan content are permitted as described there.
+Code reuse, modifications, redistribution and standalone asset reuse require prior permission,
+except for the permissions expressly stated in the license, applicable platform rights and applicable law.
+Creator credit is appreciated when practical.
 
 ## Release preparation status
 
